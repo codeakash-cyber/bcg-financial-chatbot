@@ -1,6 +1,11 @@
 # GFC Financial Chatbot — BCG X GenAI Job Simulation
 
 An AI-powered financial analysis chatbot built with Streamlit, developed as part of the BCG X GenAI Job Simulation on Forage. The app answers natural-language questions about company financials (revenue, net income, profit margins, cash flow, financial health) and visualizes trends across multiple fiscal years.
+## Preview
+
+![Chat Interface](screenshot-chat.png.png)
+
+![Dashboard](screenshot-dashboard.png.png)
 
 ## Features
 
